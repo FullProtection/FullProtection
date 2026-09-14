@@ -1,0 +1,6 @@
+{
+  "name": "App de Finanças Pessoais - MVP & Login Glassmorphism",
+  "description": "Especificação de MVP para controle de gastos com tela de login responsiva em Glassmorphism, validação de campos, recuperação de senha e guia de deploy gratuito na Vercel/Netlify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
